@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Name is Henry, an IT enthusiast and researcher that dabbles in all things tech.
+Name is Henry, an IT enthusiast and researcher that dabbles in all things tech, mixing both theory and practical learning.
 
 I like to think of problems, brainstorm solutions, and create resolutions. 
 
